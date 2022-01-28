@@ -1,0 +1,12 @@
+target/
+publish-maven/
+.ensime*
+ensime*
+*.env
+.idea/
+.DS_Store
+publish.sbt
+version.txt
+version.sbt
+.env
+/.bsp
